@@ -1,5 +1,7 @@
 # HashGame AI with the MinMax algorithm
 
+Authors: Douglas da Silva, Giovanna Moretti
+
 This code is a implementation with Python of a HashGame that can be played with a AI player. The AI algorithm used is MinMax. 
 
 ## Dependencies 
